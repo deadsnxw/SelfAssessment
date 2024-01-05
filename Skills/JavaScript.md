@@ -1,20 +1,20 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
+  - Object ✋ used
+  - this 👂 heard
+  - arrow function ✋ used
+  - async function 👂heard
   - call
   - bind
   - apply
-  - instanceof
+  - instanceof 👂 heard
   - ...spread
   - ...rest
-  - typeof
+  - typeof 👂heard
   - destructuring
   - generator
-  - iterator
+  - iterator ✋ used
   - async generator
   - async iterator
   - chaining
@@ -26,64 +26,64 @@
   - getters and setters
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators ✋ used
+  - logical operators ✋ used
+  - bitwise operators ✋ used
+  - ternary operator ✋ used
+  - void ✋ used
   - yield
   - await
   - template literal
   - strict mode
   - delete
-  - in
+  - in ✋ used
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
+  - if ✋ used
+  - while ✋ used
+  - do..while 🎓 known
+  - for ✋ used
+  - for..in 🎓 known
+  - for..of 🎓 known
+  - for await 👂heard
+  - throw 👂 heard
+  - break ✋ used
+  - continue ✋ used
+  - import ✋ used
   - export
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch ✋ used
+  - switch ✋ used
+  - class 🎓 known
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
+  - function declaration ✋ used
+  - function expression ✋ used
+  - return 👂heard
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array ✋ used
   - mixin
   - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
+  - typed arrays 👂 heard
+  - Map 👂 heard
+  - Set 👂 heard
+  - undefined ✋ used
+  - null ✋ used
+  - Proxy 👂 heard
   - weak collections
   - timers
-  - EventEmitter
+  - EventEmitter 👂 heard
   - RegExp
   - Date
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js 👂 heard
   - npm
-  - prettier
+  - prettier ✋ used
   - MDN
