@@ -6,7 +6,7 @@
   - variable ✋ used
   - constant ✋ used
   - scalar 👂 heard
-  - literal 👂heard
+  - literal ✋ used
   - expression ✋ used
   - heap 👂 heard
   - function ✋ used
@@ -14,7 +14,7 @@
   - method ✋ used
   - class ✋ used
   - prototype 👂 heard
-  - event 👂 heard
+  - event ✋ used
   - type ✋ used 
   - primitive types ✋ used
   - reference types ✋ used
@@ -25,26 +25,26 @@
   - loops ✋ used
   - assignment ✋ used
   - regular expression ✋ used 
-  - interface
+  - interface ✋ used 
   - contract
-  - module
+  - module ✋ used 
   - call stack
 - Functions
   - signature
   - argument ✋ used 
   - parameter ✋ used 
   - pure function
-  - lambda expression
-  - side effects
+  - lambda expression 👂 heard
+  - side effects 
   - closure
   - partial application
   - curry
   - higher order
   - recursion ✋ used
-  - callback
+  - callback 👂 heard
   - listener
   - compose
-  - pipe
+  - pipe 👂 heard
   - memoize
   - wrapper
   - functor
@@ -73,34 +73,34 @@
   - tree ✋ used
   - graph ✋ used
   - iterator ✋ used
-  - mutable state
-  - immutable state 👂 heard
+  - mutable state ✋ used
+  - immutable state ✋ used
   - serialization
-  - string parsing 👂 heard
+  - string parsing ✋ used
 - Process & style
   - compiler ✋ used
   - transpiler
-  - linter
+  - linter ✋ used
   - polyfill
   - debugger ✋ used
   - garbage collection
   - refactoring ✋ used
   - code review ✋ used
-  - antipatterns 👂 heard
-  - paradigm 👂 heard
+  - antipatterns 🎓 known
+  - paradigm 🎓 known
   - algorithm 🎓 known
   - magic numbers 
   - hardcode ✋ used
   - complexity
   - decomposition 👂heard 
-  - spaghetti ✋ used
+  - spaghetti 🎓 known
   - silver bullet
   - not invented here ✋ used
   - dead code 🎓 known
   - unreachable code 🎓 known
-  - duplicate code ✋ used
+  - duplicate code 🎓 known
   - exception ✋ used
   - return early
   - unittest
-  - git 👂heard
+  - git ✋ used
   - github ✋ used
