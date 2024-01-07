@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming👂heard
-  - Imperative programming
-  - Structured programming 👂heard
+  - Procedural programming ✋ used
+  - Imperative programming ✋ used
+  - Structured programming ✋ used
   - Non-structured programming 👂heard
   - Functional programming 👂heard
   - Prototype-based programming 👂heard
-  - Object-oriented programming 👂heard
+  - Object-oriented programming ✋ used
   - Object-based programming 👂heard
   - Generic programming
   - Concurrent computing
@@ -17,44 +17,44 @@
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Multi-paradigm programming 👂heard
+  - Metaprogramming 
   - Actor model
 - OOP basics
-  - constructor
-  - new
+  - constructor ✋ used
+  - new ✋ used
   - Static method  ✋used
   - Method ✋used
-  - Async method 👂heard
-  - Getters, Setters
-  - Public fields 👂heard
-  - Private fields 👂heard
-  - Field declarations 👂heard
+  - Async method ✋ used
+  - Getters, Setters ✋ used
+  - Public fields ✋ used
+  - Private fields ✋ used
+  - Field declarations ✋ used
   - Inheritance ✋ used
   - Parent class ✋ used
-  - Polymorphism 👂heard
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - Polymorphism ✋ used
+  - Abstract class ✋ used
+  - Interface ✋ used
+  - Encapsulation ✋ used
+  - Hidden class ✋ used
+  - Object form  ✋ used
+  - instance ✋ used
+  - Introspection ✋ used
+  - Reflection 👂heard
 - Patterns
   - Singleton
-  - Factory Method
-  - Abstract Factory
+  - Factory Method ✋used
+  - Abstract Factory ✋ used
   - Adapter
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy 👂heard
   - Chain of Responsibility
   - Command
   - Iterator ✋used
   - State
-  - Bridge
+  - Bridge ✋ used
   - Builder
   - Prototype
   - Composite
@@ -62,5 +62,5 @@
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
+  - Template Method ✋ used
   - Visitor

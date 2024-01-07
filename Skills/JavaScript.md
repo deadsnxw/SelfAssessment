@@ -32,7 +32,7 @@
   - ternary operator ✋ used
   - void ✋ used
   - yield
-  - await
+  - await ✋ used
   - template literal
   - strict mode
   - delete
@@ -84,6 +84,6 @@
 - Infrastructure
   - V8
   - Node.js 👂 heard
-  - npm
+  - npm ✋ used
   - prettier ✋ used
   - MDN

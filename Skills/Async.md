@@ -2,10 +2,10 @@
 
 - Theory
   - Event loop 👂 heard
-  - try..catch 👂 heard
+  - try..catch ✋ used
   - Non-blocking
   - Async I/O
-  - Thread pool
+  - Thread pool 👂 heard
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -19,31 +19,31 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread  👂 heard
+  - Process 👂 heard
 - Async contracts
   - Callbacks 👂 heard
   - Callback-last-error-first
   - Thenable
   - Promise 👂 heard
-  - Async/await 👂 heard
+  - Async/await ✋ used
   - Future
   - Deferred
   - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event 👂 heard
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
+  - Event ✋ used
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream 👂 heard
   - Chain of responsibility
   - Middleware
   - Locks
 - Async adapters and utils
   - callbackify
-  - promisify
-  - asyncify
+  - promisify 👂 heard 
+  - asyncify 👂 heard
   - callbacks compose
   - async compose
 - Async abstractions interfaces
